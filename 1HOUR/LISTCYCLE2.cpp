@@ -11,7 +11,7 @@ A Node is defined as:
     }
 */
 
-bool has_cycle(Node* head) {
+bool has_cycle(Node* head) { // probably the most elegant solution but is not constant additional space time
     unordered_map<Node*, int> nodes;
     
     if (head == NULL) {
