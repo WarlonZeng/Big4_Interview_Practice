@@ -59,3 +59,12 @@ int number_needed(string a, string b) {
     
     return delete_elements;
 }
+
+int main(){
+    string a;
+    cin >> a;
+    string b;
+    cin >> b;
+    cout << number_needed(a, b) << endl;
+    return 0;
+}
