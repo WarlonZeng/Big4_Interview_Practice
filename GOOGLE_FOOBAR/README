@@ -1,0 +1,13 @@
+Ok. So sometime around 3/24-25 midnight I got sniped by Google's Foobar thing. I was on a searching spree for "mysql multi master group replication" (I have about 60/30 tabs open on two windows-monitors).
+
+My webpage got all fuzzy and this thing popped up. I was kinda reluctant to click on it because I was tired, reading articles, and preparing to sleep, but it gave off a nice invitation feel to it so yeah.
+
+Kinda got spooked by the interface. Typical linux commands on CLI; can't use sudo or anything, commands are user-friendly restricted. 
+
+Took me awhile to get used to the interface, or what this thing even was. I proceeded with the first question and what I found was a typical online judge system - write code to solve relatively wordy problems. The judge system interface difficulty was between Hackerrank and UVA Online Judge: Walks you through 1-2 examples and failed number of test cases. Don't think there is a penalty for mass testing.
+
+They accepted only Python and Java. Didn't try to drastically change the file, i.e., there was no main function or anything like that for Python. Just an "answer" function that returns the value that the judge checks off of.
+
+It took me a few hours to refresh Python. My alternative was Java... let's just say when I want to write code I don't want to read an essay :). So sad they didn't offer C++. 
+
+Gonna upload some answers to questions I've done.
