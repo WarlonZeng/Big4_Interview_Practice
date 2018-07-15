@@ -1,0 +1,3 @@
+_____is a framework for distributed objects on the Microsoft platform.
+
+DCOM

@@ -1,0 +1,3 @@
+RPC works between two processes. These processes may be:
+
+both (a) and (b)

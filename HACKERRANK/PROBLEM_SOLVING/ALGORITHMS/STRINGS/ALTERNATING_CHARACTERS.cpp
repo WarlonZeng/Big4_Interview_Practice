@@ -20,6 +20,7 @@ int alt_chars(string test){
     }
     
     return del;
+        
 }
 
 int main() {

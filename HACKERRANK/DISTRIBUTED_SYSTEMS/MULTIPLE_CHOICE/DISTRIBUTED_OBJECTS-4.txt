@@ -1,0 +1,3 @@
+____ is a Sun specification for a distributed, shared memory.
+
+JavaSpaces
